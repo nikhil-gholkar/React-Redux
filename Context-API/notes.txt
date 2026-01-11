@@ -1,0 +1,7 @@
+TO avoid props drilling we use context API
+it has
+1)createContext: Creates a context object
+2)Provider: A component that provides context
+value to its children
+3)useContext (consumer): A hook that allows you
+to consume a context 
