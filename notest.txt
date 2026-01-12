@@ -1,0 +1,9 @@
+const [state,dispatch]=useReducer(reducer,initialStae)
+
+-alternative to useState but advanced version
+-stae= current state
+-dispatch = used to send actions to reducer function
+which in turns updates the state
+-reducer fuunction= takes current state and action 
+as an arguments and returns the new state
+-initialState = initial state of state
